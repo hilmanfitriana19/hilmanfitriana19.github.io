@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyhilman.web.id/sitemap.xml
